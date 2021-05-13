@@ -1,0 +1,1042 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>
+    
+    
+        Ramada Encore, Bangalore - Book by Hour & Save Upto 70% on Bangalore Hotels
+    
+
+  </title>
+  <link rel="preconnect" href="https://d1ha4q9jvugw4k.cloudfront.net">
+  <link rel="preconnect" href="https://connect.facebook.net">
+  <link rel="preconnect" href="https://track.livepinch.com">
+  <link rel="shortcut icon" href="https://d1ha4q9jvugw4k.cloudfront.net/static/img/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="https://d1ha4q9jvugw4k.cloudfront.net/static/img/favicon.ico" type="image/x-icon">
+  <link rel="manifest" href="/manifest.json">
+  
+    <meta property="fb:admins" content="596990119">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@MISTAY_IN">
+    <meta name="twitter:creator" content="@MISTAY_IN">
+    
+<link rel="canonical" href="https://www.mistay.in/hotels-in-bangalore/ramada-encore/"/>
+
+    <meta name="description" content="Book Ramada Encore by Hour & Save Upto 70% on India's Largest Hourly Hotels Site. Short Stay, Early Check-in, Day Use and Night Stay Hotels in Bangalore. Stop Paying for FULL Days!">
+
+<meta name="keywords" content="Day use rooms, early checkin, 24 hours checkin, Hourly hotel, Night stay hotel, Hotel room by hour, Ramada Encore">
+<meta property="og:url" content="https://www.mistay.in/hotels-in-bangalore/ramada-encore/">
+<meta property="og:image" content="https://www.mistay.in/hotel_images/Bangalore/ramada-encore/124357555.jpg">
+<meta property="og:title" content="Ramada Encore, Bangalore - Book by Hour & Save Upto 70% on Bangalore Hotels">
+<meta property="og:description" content="Book Ramada Encore by Hour & Save Upto 70% on India's Largest Hourly Hotels Site. Short Stay, Early Check-in, Day Use and Night Stay Hotels in Bangalore.">
+<meta property="fb:admins" content="596990119"/>
+<meta name="twitter:image" content="https://d1ha4q9jvugw4k.cloudfront.net/public_media/hotel_images/Bangalore/ramada-encore/124357555.jpg">
+<meta name="twitter:title" content="Ramada Encore, Bangalore - Book by Hour & Save Upto 70% on Bangalore Hotels">
+<meta name="twitter:description" content="Book Ramada Encore by Hour & Save Upto 70% on India's Largest Hourly Hotels Site. Short Stay, Early Check-in, Day Use and Night Stay Hotels in Bangalore.">
+
+  
+  
+    <link rel="stylesheet" href="https://d1ha4q9jvugw4k.cloudfront.net/static/CACHE/css/output.a535f79dbe23.css" type="text/css">
+  
+  
+
+  <link rel="stylesheet" href="https://d1ha4q9jvugw4k.cloudfront.net/static/CACHE/css/output.052106d5ff82.css" type="text/css">
+
+
+  
+    <script>(function(e,r){var i={minify:true,app_namespace:"LP",tracker_url:"//track.livepinch.com/client-api/v1/track",script_url:"//track.livepinch.com/client/0.5.0/client.js",survey_base:"//app.livepinch.com/forms/_s/",web_push_frame_id:"lp-push-frame",global_prefix:"LP",version:"0.5.0",debug:false};if(typeof e.LP=="undefined"){e.LP={__queue:[],version:"0.5.0",config:{},user:{},event:{},survey:{}};var n="isInitialized namespace licenseKey".split(" ");var t="login logout getAttributes setAttributes".split(" ");var a="isLoggedIn uuid profileId".split(" ");var s="track pageView screenView".split(" ");var u=["show"];var l=function(){console.log("value function");return null};var o=function(r){return function(){e.LP.__queue.push([r,arguments])}};for(var c=0;c<n.length;c++){e.LP[n[c]]=l}for(var c=0;c<t.length;c++){e.LP.user[t[c]]=o("LP.user."+t[c])}for(var c=0;c<a.length;c++){e.LP.user[a[c]]=l}for(var c=0;c<s.length;c++){e.LP.event[s[c]]=o("LP.event."+s[c])}for(var c=0;c<u.length;c++){e.LP.survey[s[c]]=o("LP.survey."+s[c])}e.LP.initialize=o("LP.initialize");setTimeout(function(){var e=r.createElement("script");e.async=true;e.src=i.script_url+"?rand="+Math.random();window.addEventListener('load',function(){r.body.appendChild(e);});},100)}})(window,document);LP.initialize("3d8fdb1114546eca");function runIfLPLoaded(){if(LP.isInitialized()){var isUserLoggedIn=false;if(isUserLoggedIn){if(LP.user.isLoggedIn()&&!isUserLoggedIn){LP.user.logout();}else if(!LP.user.isLoggedIn()&&isUserLoggedIn){LP.user.login("");}LP.user.setAttributes({profile_key:"",first_name:" ",gender:"",});if(""){LP.user.setAttributes({email:""});}if(""){LP.user.setAttributes({phone:"+91"+""});}}}else{setTimeout(runIfLPLoaded,500);}};runIfLPLoaded();</script>
+    <script>var clevertap={event:[],profile:[],account:[],onUserLogin:[],notifications:[]};clevertap.account.push({"id":"W4R-4KR-R84Z"});clevertap.enablePersonalization=true;(function(){var wzrk=document.createElement('script');wzrk.type='text/javascript';wzrk.async=true;wzrk.src=('https:'==document.location.protocol?'https://d2r1yp2w7bby2u.cloudfront.net':'http://static.clevertap.com')+'/js/a.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(wzrk,s);})();function clevertapWebPushPermissionPopup(){function sendWebPushPermissionEvent(action){return function(){clevertap.event.push('Google Web Push Permission',{'action':action});}}clevertap.notifications.push({"titleText":'Get exclusive discounts, latest offers and updates from MiStay',"bodyText":' ',"okButtonText":'Yes!',"rejectButtonText":'No thanks',"okButtonColor":'#f28046',"askAgainTimeInSeconds":86400,"okCallback":sendWebPushPermissionEvent('accept'),"subscriptionCallback":sendWebPushPermissionEvent('subscribe'),"rejectCallback":sendWebPushPermissionEvent('reject'),});}function runIfClevertapLoaded(){if(clevertap.session){if(clevertap.session.getPageCount()>4){clevertapWebPushPermissionPopup();}}else{setTimeout(runIfClevertapLoaded,500);}}runIfClevertapLoaded();</script>
+    <script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.src=v;s=b.getElementsByTagName(e)[0];window.addEventListener('load',function(){s.parentNode.insertBefore(t,s)})}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init','1671084066254182');fbq('track','PageView');</script>
+<noscript>
+    <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1671084066254182&ev=PageView &noscript=1"/>
+</noscript>
+
+    <script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create','UA-72505665-1','auto');ga('send','pageview');if(localStorage&&localStorage.getItem('oauthClientReferrer')){ga('set','referrer','https://www.mistay.in');localStorage.removeItem('oauthClientReferrer');}var username='';if(username){if(localStorage.getItem('ga_username')!=username){ga('send',{hitType:'event',eventCategory:'Authentication',eventAction:'Login',eventLabel:username,});localStorage.setItem('ga_username',username);}}else if(localStorage.getItem('ga_username')!==null){localStorage.removeItem('ga_username');}</script>
+
+  
+<script>(adsbygoogle=window.adsbygoogle||[]).push({google_ad_client:"ca-pub-7956858795378119",enable_page_level_ads:true});</script>
+</head>
+<body>
+  
+  
+  
+
+
+  
+
+
+<div class="ui massive secondary menu header-container">
+  
+    
+      <a onclick="window.history.back()" class="toc item">
+        <i class="arrow left icon"></i>
+      </a>
+    
+  
+  
+  <div class="right menu">
+    
+      <a class="ui item" href="/">
+        <img class="ui image" id="logo-image" src="https://d1ha4q9jvugw4k.cloudfront.net/static/img/logo_opt_gray.png" alt="MiStay - Hotel Booking Website Logo">
+      </a>
+    
+  </div>
+</div>
+
+<div class="ui vertical sidebar overlay" id="sidebar">
+  
+  <div class="sidebar-content">
+    
+      <div class="item row" id="sign-up-button">
+        <div class="icon">
+          <i class="user plus icon"></i>
+        </div>
+        <div class="content">
+          <div>Sign Up / Login</div>
+          <div class="signup-credits">Get ₹50 FREE Credits</div>
+        </div>
+      </div>
+    
+    
+        <a class="item row" href="/" rel="nofollow">
+          <div class="icon">
+            <i class="home icon"></i>
+          </div>
+          <div class="content">
+            Home
+          </div>
+        </a>
+        <a class="item row" href="/bookings/" rel="nofollow">
+          <div class="icon">
+            <i class="list icon"></i>
+          </div>
+          <div class="content">
+            My Bookings
+          </div>
+        </a>
+        <a class="item row" href="/faq/">
+          <div class="icon">
+            <i class="question circle icon"></i>
+          </div>
+          <div class="content">
+            FAQs
+          </div>
+        </a>
+        <div class="item row other-links">
+          <div class="icon">
+            <i class="ellipsis horizontal icon"></i>
+          </div>
+          <div class="content">
+            Other Links
+          </div>
+        </div>
+    
+    <div class="nested-items other-links-items">
+      <a class="nested-item" href="/referral-program/">
+        <div class="icon">
+          <i class="rupee sign icon"></i>
+        </div>
+        <div class="content">
+          Get Free Credits
+        </div>
+      </a>
+      <a class="nested-item" href="/travel-blog/">
+        <div class="icon">
+          <i class="newspaper outline icon"></i>
+        </div>
+        <div class="content">
+          Travel Blog
+        </div>
+      </a>
+      <a class="nested-item" href="/about/">
+        <div class="icon">
+          <i class="info circle icon"></i>
+        </div>
+        <div class="content">
+          About Us
+        </div>
+      </a>
+      <a class="nested-item" href="/careers/">
+        <div class="icon">
+          <i class="suitcase circle icon"></i>
+        </div>
+        <div class="content">
+          Careers
+        </div>
+      </a>
+      
+    </div>
+    <a class="item row" href="tel:+919821344568">
+      <div class="icon">
+        <i class="phone icon"></i>
+      </div>
+      <div class="content">
+        <div>Call Support</div>
+        <div class="desc">+91 9821344568</div>
+      </div>
+    </a>
+    <a class="item row" href="mailto:hello@mistay.in">
+      <div class="icon">
+        <i class="envelope icon"></i>
+      </div>
+      <div class="content">
+        <div>Email Support</div>
+        <div class="desc">hello@mistay.in</div>
+      </div>
+    </a>
+  </div>
+  <div class="sidebar-footer">
+    
+        
+        
+        <div class="text">
+          Download our app and get exclusive app-only discounts & offers
+        </div>
+    
+  </div>
+</div>
+<div class="ui modal login-overlay lazy-bg" id="social-account-modal">
+    <i class="close icon close-icon" id="social-account-modal-close-icon"></i>
+    <div class="login-container">
+        <div>
+            <h1 style="font-weight: 900;line-height: 29px;letter-spacing: -0.01em;">Let’s make<br/> short stays sweet</h1>
+        </div>
+        <div style="display: flex; flex-direction: column; flex:1">
+          <div class="desc-item">
+              <div class="check-icon"><i class="inverted icon check"></i></div>
+              <div class="content" style="padding: 0px !important">
+                <div class="header">Free Credits</div>
+                <div class="description" style="padding: 0px !important;">Upto ₹200 credits free on sign up & more when you refer your friends</div>
+              </div>
+          </div>
+          <div class="desc-item">
+              <div class="check-icon"><i class="inverted icon check"></i></div>
+              <div class="content" style="padding: 0px !important">
+                <div class="header">Exclusive Offers</div>
+                <div class="description" style="padding: 0px !important;">Amazing offers and coupon codes based on your usage</div>
+              </div>
+          </div>
+          <div class="desc-item">
+              <div class="check-icon"><i class="inverted icon check"></i></div>
+              <div class="content" style="padding: 0px !important">
+                <div class="header">MiStay Rewards</div>
+                <div class="description" style="padding: 0px !important;">Get cashbacks for every paid online bookings</div>
+              </div>
+          </div>
+        </div>
+      <div>
+      </div>
+      <div class="login-button-container">
+        <div style="-webkit-tap-highlight-color: rgba(0,0,0,0);">
+          <a href='/accounts/facebook/login/?process=login&next=/hotels-in-bangalore/ramada-encore/%3Fcheckin_date%3D2021-05-14%26checkin_slot%3D2%26slot_count%3D3%26room_count%3D1%26guest_count%3D1' onclick="localStorage.setItem('oauthClientReferrer', 'facebook');">
+          <button class="facebook-login-btn login-button">
+          <i class="facebook icon social-login-icon"></i>
+          <span class="action-type">Sign in</span>&nbsp;with Facebook
+          </button>
+          </a>
+        </div>
+        <div style="-webkit-tap-highlight-color: rgba(0,0,0,0);">
+          <a href='/accounts/google/login/?process=login&next=/hotels-in-bangalore/ramada-encore/%3Fcheckin_date%3D2021-05-14%26checkin_slot%3D2%26slot_count%3D3%26room_count%3D1%26guest_count%3D1' onclick="localStorage.setItem('oauthClientReferrer', 'google');">
+          <button class="google-login-btn login-button">
+          <i class="google icon social-login-icon"></i>
+          <span class="action-type">Sign in</span>&nbsp;with Google
+          </button>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+<div>
+<ul id="image-gallery" class="gallery list-unstyled cS-hidden">
+  
+    <li> 
+      
+          
+            <img class="slider-images" src="https://d1ha4q9jvugw4k.cloudfront.net/public_media/hotel_images/Bangalore/ramada-encore/1.jpg">
+          
+      
+    </li>
+  
+    <li> 
+      
+          
+            <img class="lazy slider-images" data-src="https://d1ha4q9jvugw4k.cloudfront.net/public_media/hotel_images/Bangalore/ramada-encore/2.jpg">
+          
+      
+    </li>
+  
+    <li> 
+      
+          
+            <img class="lazy slider-images" data-src="https://d1ha4q9jvugw4k.cloudfront.net/public_media/hotel_images/Bangalore/ramada-encore/3.jpg">
+          
+      
+    </li>
+  
+    <li> 
+      
+          
+            <img class="lazy slider-images" data-src="https://d1ha4q9jvugw4k.cloudfront.net/public_media/hotel_images/Bangalore/ramada-encore/4.jpg">
+          
+      
+    </li>
+  
+    <li> 
+      
+          
+            <img class="lazy slider-images" data-src="https://d1ha4q9jvugw4k.cloudfront.net/public_media/hotel_images/Bangalore/ramada-encore/5.jpg">
+          
+      
+    </li>
+  
+    <li> 
+      
+          
+            <img class="lazy slider-images" data-src="https://d1ha4q9jvugw4k.cloudfront.net/public_media/hotel_images/Bangalore/ramada-encore/6.jpg">
+          
+      
+    </li>
+  
+    <li> 
+      
+          
+            <img class="lazy slider-images" data-src="https://d1ha4q9jvugw4k.cloudfront.net/public_media/hotel_images/Bangalore/ramada-encore/7.jpg">
+          
+      
+    </li>
+  
+    <li> 
+      
+          
+            <img class="lazy slider-images" data-src="https://d1ha4q9jvugw4k.cloudfront.net/public_media/hotel_images/Bangalore/ramada-encore/8.jpg">
+          
+      
+    </li>
+  
+    <li> 
+      
+          
+            <img class="lazy slider-images" data-src="https://d1ha4q9jvugw4k.cloudfront.net/public_media/hotel_images/Bangalore/ramada-encore/9.jpg">
+          
+      
+    </li>
+  
+</ul>
+<div class="cm-padded-10 cm-distinct-10 cm-title1">
+    Ramada Encore
+</div>
+<div class="cm-padded-10 cm-caption">
+  282 - 285, Intermediate Ring Rd, Amarjyothi Domlur, 1st Stage, Vyalikaval HBCS Layout, Civil Area, Bengaluru, Karnataka 560071
+</div>
+
+  <div class="cm-padded-10 cm-distinct-10">
+    <div class="cm-caption">TripAdvisor Traveler Rating</div>
+    <div style="line-height: initial;">
+      <img id="ta-rating-icon" src="http://www.tripadvisor.in/img/cdsi/img2/ratings/traveler/4.5-47701-5.svg"/>&nbsp;
+      <a class="cm-caption" id="ta-review-link" href="https://www.tripadvisor.in/Attraction_Review-g33415-d560071-Reviews-Meadow_Loop_Trail-Evergreen_Colorado.html?m=47701#REVIEWS" target="_blank">
+        9 Reviews
+      </a>
+    </div>
+  </div>
+
+<div class="cm-wraping-row cm-padded-10 cm-distinct-10">
+  
+    <div class="cm-label">Couple Friendly</div>
+  
+  
+    <div class="cm-label">Local ID accepted</div>
+  
+  <div class="cm-label">4 Star Hotel</div>
+</div>
+
+<div class="cm-padded-10 cm-distinct-10 cm-subtitle light-grey-bg">
+  Hotel Amenities
+</div>
+<div class="cm-row vertical-scrollable">
+  
+    <div class="amenities">
+      <i class="amenities-icons wifi large"></i>
+      <div>wifi</div>
+    </div>
+  
+    <div class="amenities">
+      <i class="amenities-icons parking large"></i>
+      <div>parking</div>
+    </div>
+  
+    <div class="amenities">
+      <i class="amenities-icons gym large"></i>
+      <div>gym</div>
+    </div>
+  
+    <div class="amenities">
+      <i class="amenities-icons banquet_hall large"></i>
+      <div>banquet hall</div>
+    </div>
+  
+    <div class="amenities">
+      <i class="amenities-icons laundry_system large"></i>
+      <div>laundry system</div>
+    </div>
+  
+    <div class="amenities">
+      <i class="amenities-icons luggage_room large"></i>
+      <div>luggage room</div>
+    </div>
+  
+    <div class="amenities">
+      <i class="amenities-icons pay_by_card large"></i>
+      <div>pay by card</div>
+    </div>
+  
+    <div class="amenities">
+      <i class="amenities-icons elevator large"></i>
+      <div>elevator</div>
+    </div>
+  
+    <div class="amenities">
+      <i class="amenities-icons restaurant large"></i>
+      <div>restaurant</div>
+    </div>
+  
+</div>
+<div class="cm-row space-between cm-padded-10">
+  <div class="cm-column">
+    <div class="cm-distinct-10">
+      <div class="cm-caption1">Check In</div>
+      <div class="cm-subtitle">12 PM, 14 May</div>
+    </div>
+    <div class="cm-distinct-10">
+      <div class="cm-caption1">Check Out</div>
+      <div class="cm-subtitle">11 AM, 15 May</div>
+    </div>
+  </div>
+  <div class="cm-column">
+    <div class="cm-distinct-10">
+      <div class="cm-caption1">Rooms / Guests</div>
+      <div class="cm-subtitle">1 Room / 1 Guest</div>
+    </div>
+  </div>
+</div>
+
+  <div class="cm-padded-10 cm-distinct-10 cm-subtitle cm-bold light-grey-bg">
+    Select Room Type
+  </div>
+  
+    <div class="cm-padded-10">
+      <div class="roomtype-button roomtype-item active" data-value=4211>
+        <input type="hidden" name="room-type-id" value="4211">
+        <input type="hidden" name="room-type" value="Deluxe Queen Room">
+        <input type="hidden" name="total-price" value="2240">
+        <input type="hidden" name="price-without-tax" value="2000">
+        <input type="hidden" name="tax" value="240">
+        <input type="hidden" name="convenience-fees-with-tax" value="142">
+        <input type="hidden" name="total-price-payable" value="2382">
+        <input type="hidden" name="deposit-price" value="">
+        Deluxe Queen Room
+      </div>
+    </div>
+  
+  <div class="cm-padded-10 cm-distinct-10 cm-subtitle light-grey-bg">
+    Room Amenities
+  </div>
+
+
+  <div class="cm-row vertical-scrollable room-amenities-list " data-value=4211>
+    
+      <div class="amenities">
+        <i class="amenities-icons mineral_water large"></i>
+        <div>mineral water</div>
+      </div>
+    
+      <div class="amenities">
+        <i class="amenities-icons shower large"></i>
+        <div>shower</div>
+      </div>
+    
+      <div class="amenities">
+        <i class="amenities-icons wifi large"></i>
+        <div>wifi</div>
+      </div>
+    
+      <div class="amenities">
+        <i class="amenities-icons room_heater large"></i>
+        <div>room heater</div>
+      </div>
+    
+      <div class="amenities">
+        <i class="amenities-icons hot_water large"></i>
+        <div>hot water</div>
+      </div>
+    
+      <div class="amenities">
+        <i class="amenities-icons toiletries large"></i>
+        <div>toiletries</div>
+      </div>
+    
+      <div class="amenities">
+        <i class="amenities-icons towel large"></i>
+        <div>towel</div>
+      </div>
+    
+      <div class="amenities">
+        <i class="amenities-icons wardrobe large"></i>
+        <div>wardrobe</div>
+      </div>
+    
+      <div class="amenities">
+        <i class="amenities-icons tv large"></i>
+        <div>tv</div>
+      </div>
+    
+      <div class="amenities">
+        <i class="amenities-icons ac large"></i>
+        <div>ac</div>
+      </div>
+    
+      <div class="amenities">
+        <i class="amenities-icons study_table large"></i>
+        <div>study table</div>
+      </div>
+    
+      <div class="amenities">
+        <i class="amenities-icons refrigerator large"></i>
+        <div>refrigerator</div>
+      </div>
+    
+      <div class="amenities">
+        <i class="amenities-icons sofa large"></i>
+        <div>sofa</div>
+      </div>
+    
+  </div>
+
+
+  <div class="cm-padded-10 cm-distinct-10">
+    <div id="hotel-on-map">
+      <button class="ui orange button" id="show-map">Show Map</button>
+    </div>
+  </div>
+
+<div class="cm-padded-10 cm-distinct-10 cm-subtitle light-grey-bg">
+  Hotel Policy
+</div>
+<ul class="policy-list cm-caption">
+  
+    <li>All Guests need to produce valid address &amp; photo identification proof at the time of check-in</li>
+  
+    <li>Guests will be offered the room with the check-in &amp; check-out times corresponding to slots booked. Any early check-in or later check-out will be at the discretion of the hotel</li>
+  
+    <li>All guest must be above legal age if an independent reservation is made (in absence of a parent and guardian)</li>
+  
+</ul>
+<div class="cm-padded-10 cm-distinct-10 cm-subtitle light-grey-bg">
+  Cancellation Policy
+</div>
+<ul class="policy-list cm-caption">
+  
+    <li>100% refund if cancelled before 24 hours of check-in time.</li>
+  
+    <li>No refund if cancellation is done within 24 hours of check-in time.</li>
+  
+    <li>No refund in case of no-show.</li>
+  
+    <li>Convenience Fees is non refundable</li>
+  
+</ul>
+<div class="cm-padded-10 cm-accordion">
+  <div class="cm-subtitle light-grey-bg cm-distinct-10 cm-accordion-control">
+    Description
+    <i class="chevron circle down icon right-floated cm-accordion-control-icon"></i>
+  </div>
+  <div class="cm-wraping-row cm-accordion-content cm-hidden">
+    <div class="cm-caption">Featuring a garden and a fitness centre, Ramada Encore Domlur Bangalore offers rooms in Bangalore City, 100 m from the Karnataka Golf Association. The property has free WiFi access throughout.
+
+
+
+With air conditioning, each room is equipped with a satellite flat-screen TV and minibar. The private bathroom comes with a shower, hairdryer and free toiletries.
+
+
+
+The Hub Restaurant serves Indian food as well as International classics. A 24-hour front desk service and a business centre are also available.
+
+
+
+The Bangalore Palace is a 12 km away from Ramada Encore Domlur, while the Bangalore International Airport is 42 km away.
+
+
+
+Couples particularly like the location — they rated it 8.0 for a two-person trip.
+
+
+
+We speak your language!</div>
+  </div>
+</div>
+<div class="cm-padded-10 cm-distinct-10 cm-subtitle light-grey-bg">
+  Similar Hotels Nearby
+</div>
+<div class="shn-swiper-container">
+  <div class="swiper-wrapper">
+    
+
+
+
+  </div>
+  <div class="swiper-pagination"></div>
+</div>
+
+  <div class="cm-padded-10 cm-accordion">
+    <div class="cm-subtitle light-grey-bg cm-distinct-10 cm-accordion-control">
+      Places of Interest
+      <i class="chevron circle down icon right-floated cm-accordion-control-icon"></i>
+    </div>
+    <div class="cm-wraping-row cm-accordion-content cm-hidden">
+      
+        <a class="cm-label" href="/hotels-near-national-public-school-bangalore/">
+          National Public School
+          
+            (1.7km)
+          
+        </a>
+      
+        <a class="cm-label" href="/hotels-near-national-public-school-indiranagar-bangalore/">
+          National Public School, Indiranagar
+          
+            (1.7km)
+          
+        </a>
+      
+        <a class="cm-label" href="/hotels-near-indiranagar-metro-station-bangalore/">
+          Indiranagar Metro Station
+          
+            (2.5km)
+          
+        </a>
+      
+        <a class="cm-label" href="/hotels-near-regional-passport-office-bangalore/">
+          Regional Passport Office
+          
+            (2.6km)
+          
+        </a>
+      
+        <a class="cm-label" href="/hotels-near-sony-signal-bus-stop-bangalore/">
+          Sony Signal Bus Stop
+          
+            (2.6km)
+          
+        </a>
+      
+        <a class="cm-label" href="/hotels-near-bagmane-tech-park-bangalore/">
+          Bagmane Tech Park
+          
+            (3.1km)
+          
+        </a>
+      
+        <a class="cm-label" href="/hotels-near-trinity-metro-station-bangalore/">
+          Trinity Metro Station
+          
+            (3.3km)
+          
+        </a>
+      
+        <a class="cm-label" href="/hotels-near-bellandur-lake-bangalore/">
+          Bellandur Lake
+          
+            (3.7km)
+          
+        </a>
+      
+        <a class="cm-label" href="/hotels-near-forum-bus-stop-bangalore/">
+          Forum Bus Stop
+          
+            (3.7km)
+          
+        </a>
+      
+        <a class="cm-label" href="/hotels-near-cathedral-high-school-bangalore-bangalore/">
+          Cathedral High School, Bangalore
+          
+            (3.7km)
+          
+        </a>
+      
+    </div>
+  </div>
+
+
+<div class="cm-padded-10 cm-distinct-10 cm-caption">
+  <a class="cm-caption" href="/">Home</a>
+  <i class="right chevron icon divider"></i>
+  <a class="cm-caption" href="/hotels-in-bangalore/">Bangalore</a>
+  <i class="right chevron icon divider"></i>
+  <a class="cm-caption cm-bold" href="/hotels-in-bangalore/ramada-encore/">Ramada Encore</a>
+</div>
+
+<div class="bottom-bar-filler"></div>
+
+  <div class="cm-row cm-padded-10 bottom-fixed bottom-bar">
+    <div class="cm-column-full-width cm-distinct-10">
+      <div>
+        <span class="cm-subtitle-light cm-bold">
+          ₹&nbsp;<span class="total-price">2382</span>
+        </span>
+        &nbsp;<span class="view-pricing cm-underlined">(Price Breakup)</span>
+      </div>
+      <div class="cm-caption-light">
+        <span>12 PM, 14 May - 11 AM, 15 May</span>
+      </div>
+    </div>
+    <div class="cm-padded-10 cm-distinct-10 text-centered cm-middle-aligned" id="book-now-button">
+      <span class="cm-title1-light">BOOK NOW</span>
+    </div>
+  </div>
+  <div class="fixed-fill light-grey-bg left-sliding hidden-right" id="booking-modal">
+    <div class="cm-row white-bg cm-middle-aligned cm-padded-10 cm-distinct-10">
+      <div class="icon-button-small" id="booking-modal-back-icon">
+        <i class="arrow left icon"></i>
+      </div>
+      <div class="cm-title1">
+        Ramada Encore
+      </div>
+    </div>
+    
+
+<div class="" id="booking-form-container">
+  <div class="cm-row space-between cm-padded-10">
+    <div class="cm-column">
+      <div class="cm-distinct-10">
+        <div class="cm-caption1">Check In</div>
+        <div class="cm-subtitle">12 PM, 14 May</div>
+      </div>
+      <div class="cm-distinct-10">
+        <div class="cm-caption1">Check Out</div>
+        <div class="cm-subtitle">11 AM, 15 May</div>
+      </div>
+    </div>
+    <div class="cm-column">
+      <div class="cm-distinct-10">
+        <div class="cm-caption1">Rooms / Guests</div>
+        <div class="cm-subtitle">1 Room / 1 Guest</div>
+      </div>
+      
+        <div class="cm-distinct-10">
+          <div class="cm-caption1">Room Type</div>
+          <div class="cm-subtitle room-type-text">Deluxe Queen Room</div>
+        </div>
+      
+    </div>
+  </div>
+  
+  <div class="cm-padded-10 cm-distinct-10">
+    <div class="ui form" id="booking-form">
+      <input type="hidden" name="city" value="Bangalore">
+      <input type="hidden" name="hotel-name" value="Ramada Encore">
+      <input type="hidden" name="hotel-slug" value="ramada-encore">
+      <input type="hidden" name="room-type-id" value="4211">
+      <input type="hidden" name="room-type" value="Deluxe Queen Room">
+      <input type="hidden" name="checkin-date" value="2021-05-14">
+      <input type="hidden" name="checkin-slot" value="2">
+      <input type="hidden" name="slot-count" value="3">
+      <input type="hidden" name="room-count" value="1">
+      <input type="hidden" name="guest-count" value="1">
+      <input type="hidden" name="intital-wallet-balance" value="0">
+      <input type="hidden" name="applied-promo-code" value="">
+      <div class="field">
+        <input type="text" name="guest-name" value="" placeholder="Primary Guest's Name"></input>
+      </div>
+      <div class="field">
+        <div class="ui labeled input">
+          <div class="ui label">+91</div>
+          <input type="tel" name="guest-mobile" value="" placeholder="Mobile Number"></input>
+        </div>
+      </div>
+      <div class="field">
+        <input type="email" name="guest-email" value="" placeholder="Email"></input>
+      </div>
+      <div class="field">
+        <div class="ui checkbox apply-gstin-checkbox">
+          <input type="checkbox" name="apply-gstin">
+          <label>Provide GST Details&nbsp;<span class="cm-caption">(Optional)</span></label>
+        </div>
+      </div>
+      <div class="cm-hidden" id="gstin-fields">
+        <div class="field">
+          <div class="ui input">
+            <input type="text" name="gst-number" value="" placeholder="GST Identification Number" }></input>
+          </div>
+        </div>
+        <div class="field">
+          <div class="ui input">
+            <input type="text" name="gst-company" value="" placeholder="Registered Company Name"></input>
+          </div>
+        </div>
+        <div class="field">
+          <div class="ui input">
+            <textarea rows="1" name="gst-company-address" placeholder="Registered Company Address"></textarea>
+          </div>
+        </div>
+      </div>
+      
+      
+      <div class="field" id="promo-code-field">
+        <div class="promo-msg-container">
+          <div class="content">
+            <div class="header">
+              <span class="before-applied">No Promotions Applied</span>
+              <span class="after-applied">Promotion Applied</span>
+            </div>
+            <div class="apply-link">Apply Coupon Code</div>
+            <div class="offer-text">You’re saving ₹<span class="promo-discount"></span></div>
+          </div>
+          <div class="close-button" id="remove-promo-code">
+            <i class="close icon"></i>
+          </div>
+        </div>
+      </div>
+      <div class="cm-row space-between cm-middle-aligned cm-distinct-10 cm-caption-success cm-hidden" id="promo-code-success">
+        <span>Promo code applied successfully.(You got ₹&nbsp;<span class="promo-discount"></span>&nbsp;off)</span>
+      </div>
+      <div class="field">
+        <div class="ui checkbox tnc-checkbox">
+          <input type="checkbox" name="tnc-accepted">
+          <label>
+            I agree to the <a href="/terms_and_conditions/" target="_blank" rel="nofollow">Terms and Conditions</a>
+          </label>
+        </div>
+      </div>
+      <div class="cm-row space-between cm-distinct-10 cm-title">
+        <div class="view-pricing">
+          ₹&nbsp;<span class="total-price-payable">2382</span><br>
+          <span class="cm-caption2">(<span class="cm-underlined">Price Breakup</span>)</span>
+        </div>
+        
+          <div class="cm-caption2 success cm-middle-aligned sign-up">
+            <span class="cm-underlined">Sign up to get ₹50 credits</span>
+          </div>
+        
+      </div>
+      <div class="ui negative message cm-hidden" id="booking-error"></div>
+      <div class="relative">
+        <div class="ui inverted dimmer" id="payment-loader">
+          <div class="ui loader"></div>
+        </div>
+        
+          <div class="cm-distinct-10">
+            <div class="ui orange large fluid button pay-button" id="pay-online"><span>Pay Online</span></div>
+          </div>
+        
+        
+            
+            
+        
+      </div>
+    </div>
+  </div>
+</div>
+<div class="cm-hidden" id="otp-form-container">
+  <div class="cm-padded-10 cm-distinct-10" id="otp-modal-content">
+    <div class="flex-fill cm-column cm-center-aligned">
+      <div class="ui success text-centered message">
+        OTP has been sent to your mobile number +91&nbsp;<span class="otp-mobile"></span>. Verify below.
+      </div>
+      <div class="cm-distinct-10">
+        <div class="ui big fluid input">
+          <input type="text" name="otp" placeholder="OTP">
+        </div>
+      </div>
+      <div class="ui error message cm-hidden" id="otp-error"></div>
+      <div class="cm-distinct-10">
+        <div class="ui orange big fluid button" id="verify-otp">
+          Verify OTP
+        </div>
+      </div>
+      <div class="cm-row space-around cm-distinct-10" id="resend-otp">
+        <div class="relative cm-subtitle-primary cm-padded-10 cm-distinct-10 text-centered " id="resend-otp">
+          <div><i class="refresh icon"></i>&nbsp;Resend OTP</div>
+          <div class="ui inverted dimmer" id="resend-otp-loader">
+            <div class="ui small loader"></div>
+          </div>
+        </div>
+        <div class="cm-subtitle-primary cm-padded-10 cm-distinct-10 text-centered" id="cancel-otp">
+          Cancel
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="promo-modal">
+  <div class="container">
+    <div class="promo-input">
+      <form autocomplete="off" onsubmit="(function(e){e.preventDefault();})(event);">
+        <div class="ui action fluid input">
+          <input type="text" name="promo-code" placeholder="Promo code" type="text">
+          <div id="apply-promo-manual" class="ui button">Apply</div>
+        </div>
+      </form>
+      <div class="cm-caption-error cm-hidden promo-code-error"></div>
+    </div>
+    <div class="cm-caption promo-list-header padding-y-20">Available Promotions</div>
+    <div class="promo-list">
+      <div class="ui active inline centered loader"></div>
+    </div>
+  </div>
+</div>
+<div class="ui small modal price-breakup-modal">
+  <div class="header">
+    Price details
+    <i class="close link icon right-floated"></i>
+  </div>
+  <div class="content">
+    <div class="ui grid centered">
+      <div class="column">
+        <div class="ui grid">
+          <div class="row">
+            <div class="eight wide column">Base Amount</div>
+            <div class="eight wide column">
+              <i class="fitted rupee icon"></i>
+              <span class="ui medium header price-without-tax">2000</span>
+            </div>
+          </div>
+          <div class="row">
+            <div class="eight wide column">GST</div>
+            <div class="eight wide column">
+              <i class="fitted rupee icon"></i>
+              <span class="ui medium header tax">240</span>
+            </div>
+          </div>
+          <div class="row">
+            <div class="eight wide column">Convenience Fees</div>
+            <div class="eight wide column">
+              <i class="fitted rupee icon"></i>
+              <span class="ui medium header convenience-fees-with-tax">142</span>
+            </div>
+          </div>
+          <div class="row">
+            <div class="eight wide column">Discount</div>
+            <div class="eight wide column">
+              <i class="fitted rupee icon"></i>
+              <span class="ui medium header discount">0</span>
+            </div>
+          </div>
+          
+          <div class="ui divider"></div>
+          <div class="row">
+            <div class="eight wide column">Grand Total</div>
+            <div class="eight wide column">
+              <i class="fitted rupee icon"></i>
+              <span class="ui medium header total-price-payable">2382</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  </div>
+
+</div>
+
+
+  <script>var HOTEL_ID="2664";var HOTEL_SLUG="ramada-encore";var embedSrc="";var embedUserId="";var GOOGLE_PLACES_API_KEY_WEB="AIzaSyDQuBjzPm0CJ-oWzYnO80_E4rrC6lSn1Tk";</script>
+
+  <script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.src=v;s=b.getElementsByTagName(e)[0];window.addEventListener('load',function(){s.parentNode.insertBefore(t,s)})}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init','1671084066254182');fbq('track','PageView');</script>
+<noscript>
+    <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1671084066254182&ev=PageView &noscript=1"/>
+</noscript>
+
+  
+  <input type="hidden" name="RAZORPAY_KEY" value="rzp_live_K0tE3n3CS5riPu">
+  <input type="hidden" name="PAYTM_MINI_KEY" value="merchant-mistay-prod">
+  <input type="hidden" name="USERNAME" value="">
+  <input type="hidden" name="latitude" value="12.955559">
+  <input type="hidden" name="longitude" value="77.641233">
+  <input type="hidden" name="hotel-name" value="Ramada Encore">
+  <input type="hidden" name="hotel-address" value="282 - 285, Intermediate Ring Rd, Amarjyothi Domlur, 1st Stage, Vyalikaval HBCS Layout, Civil Area, Bengaluru, Karnataka 560071">
+  <input type="hidden" name="MISTAY_BASE_URL" value="https://www.mistay.in">
+
+  <script>var embedSrc="";</script>
+  <script src="https://polyfill.io/v2/polyfill.min.js?features=IntersectionObserver"></script>
+  
+      <script type="text/javascript" src="https://d1ha4q9jvugw4k.cloudfront.net/static/js/lib/jquery-1.12.0.min.js"></script>
+      <script type="text/javascript" src="https://d1ha4q9jvugw4k.cloudfront.net/static/dist/extras/semantic.min.js"></script>
+    <script src="https://d1ha4q9jvugw4k.cloudfront.net/static/CACHE/js/output.95ed488ac36c.js"></script>
+    
+  
+  
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [{
+      "@type": "ListItem",
+      "position": 1,
+      "name": "MiStay",
+      "item": "https://www.mistay.in/"
+    },{
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Hotels in Bangalore",
+      "item": "https://www.mistay.in/hotels-in-Bangalore/"
+    },{
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Ramada Encore",
+      "item": "https://www.mistay.in/hotels-in-bangalore/ramada-encore/"
+    }]
+  }
+</script>
+<script type="application/ld+json">
+  {
+    "@context" : "http://schema.org",
+    "@type" : "Hotel",
+    "address" : {
+      "@type": "PostalAddress",
+      "addressLocality": "Domulur",
+      "addressRegion": "",
+      "postalCode": "",
+      "streetAddress": ""
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "12.955559",
+      "longitude": "77.641233"
+    },
+    "name": "Ramada Encore",
+    "url": "https://www.mistay.in/hotels-in-bangalore/ramada-encore/",
+    "email": "hello@mistay.in",
+    "telephone": "+91 9821344568",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": "9"
+    },
+    "image": "https://d1ha4q9jvugw4k.cloudfront.net/public_media/hotel_images/Bangalore/ramada-encore/124357555.jpg"
+  }
+</script>
+
+<script>window.addEventListener('load',function(){const src="https://d1ha4q9jvugw4k.cloudfront.net/static/dist/extras/swiper.min.js";$.getScript(src,window.onLoadSwiper);});</script>
+<script type="text/javascript" src="https://checkout.razorpay.com/v1/checkout.js"></script>
+
+  <script src="https://d1ha4q9jvugw4k.cloudfront.net/static/CACHE/js/output.556d79dee40c.js"></script>
+
+<script>(function(){var data={"Username":"","City":"Bangalore","Hotel":"Ramada Encore","Checkin Date":"2021-05-14","Checkin Slot":"2","Slot Count":"3","Room Count":"1","Guest Count":"1","Amount":"2240",'Embed Source':'',};window.addEventListener('load',function(){if(window.clevertap){clevertap.event.push("Visited Hotel",data);}if(window.LP){LP.event.track("Visited Hotel",data);}if(window.ga){ga('send',{hitType:'event',eventCategory:'Visit',eventAction:'Visited Hotel',eventLabel:'Ramada Encore',});}if(window.fbq){fbq('track','ViewContent',{content_type:"hotel",checkin_date:"2021-05-14",checkout_date:"2021-05-15",content_ids:'2664',content_name:'Ramada Encore',city:"Bangalore",region:"Bangalore",country:"India",num_adults:"1",});}});})();</script>
+
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">var Tawk_API=Tawk_API||{},Tawk_LoadStart=new Date();(function(){var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];s1.async=true;s1.src='https://embed.tawk.to/5783be8e622e6f5c2370d57a/default';s1.charset='UTF-8';s1.setAttribute('crossorigin','*');s0.parentNode.insertBefore(s1,s0);})();</script>
+<!--End of Tawk.to Script-->
+</body>
+</html>
