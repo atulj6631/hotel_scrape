@@ -17,7 +17,24 @@ NEWSPIDER_MODULE = 'hotel_scrape.spiders'
 #USER_AGENT = 'hotel_scrape (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
-ROBOTSTXT_OBEY = True
+ROBOTSTXT_OBEY = False
+
+# For scrapy_rotating_proxy
+ROTATING_PROXY_LIST = [
+    # '178.32.129.31:3128',
+    '36.71.79.162:3128',
+    '122.2.183.222:8080',
+    '188.240.71.213:3128'
+    # ...
+]
+
+# For scrapy_rotating_proxy
+DOWNLOADER_MIDDLEWARES = {
+    # ...
+    'rotating_proxies.middlewares.RotatingProxyMiddleware': 610,
+    'rotating_proxies.middlewares.BanDetectionMiddleware': 620,
+    # ...
+}
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32

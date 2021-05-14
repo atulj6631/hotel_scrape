@@ -23,19 +23,26 @@ class MistaySpider(scrapy.Spider):
 
     def start_requests(self):
         city_url = 'https://www.mistay.in/hotels-in-bangalore/?checkin_date=2021-05-14&checkin_slot=2&slot_count=3&guest_count=1&room_count=1#overlay_temp=0.9450360132160038'
+        print('in start_requests')
         yield scrapy.Request(url=city_url, callback=self.parse_hotel_list)
     
     def parse_hotel_list(self, response):
-        details = response.text
-        hotel_url_list = response.xpath('//div[@class="hotel-list-item"]/div[@class="content"]/div[@class="left"]/div/a/@href').extract()
-        # for url in hotel_url_list:
-        #     yield scrapy.Request(url=url, callback=self.parse_hotel)
+        # details = response.text
+        # print(details)
+        # print('in parse_hotel_list')
+        site_url = 'https://www.mistay.in'
+        # hotel_url_list = response.xpath('//div[@class="hotel-list-item"]/div[@class="content"]/div[@class="left"]/div/a/@href').extract()
+        hotel_url_list = response.xpath('//div[@class="hotels-list-mobile"]/a[@class="hotel-item"]/@href').extract()
+        # print(hotel_url_list)
+        for url in hotel_url_list:
+            yield scrapy.Request(url=site_url + url, callback=self.parse_hotel)
 
         # QA Test
-        url = 'https://www.mistay.in/hotels-in-bangalore/ramada-encore/?checkin_date=2021-05-14&checkin_slot=2&slot_count=3&room_count=1&guest_count=1'
-        yield scrapy.Request(url=url, callback=self.parse_hotel)
+        # url = 'https://www.mistay.in/hotels-in-bangalore/ramada-encore/?checkin_date=2021-05-14&checkin_slot=2&slot_count=3&room_count=1&guest_count=1'
+        # yield scrapy.Request(url=url, callback=self.parse_hotel)
 
     def parse_hotel(self, response):
+        # print('in parse_hotel')
         # details = response.text
         # file1 = io.open('mistay_hotel.txt', 'w', encoding="utf-8")
         # file1.write(details)
